@@ -1,0 +1,26 @@
+.elementor-pagination {
+   margin-top: 50px;
+}
+
+.page-numbers {
+    background-color: #C2C2C2;
+    padding: 10px 20px;
+    border:1px solid #666666;
+    color: #f4f4f4 !important;
+    border-radius: 5px;
+}
+
+.page-numbers:hover  {
+    background-color: #ff8836;
+}
+
+.current {
+    background-color: #f4f4f4;
+    border: 1px solid #ff8836;
+    color: #ff8836 !important;
+    }
+    
+.current:hover  {
+    border:1px solid #666666;
+    color: #f4f4f4 !important;
+}
